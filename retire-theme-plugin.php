@@ -2,8 +2,8 @@
 /*
 Plugin Name: Retire Theme Plugin
 Plugin URI: http://wordpress.org/extend/plugins/retire-theme-plugin/
-Description: Allow network administrators to look at theme usage and make announcements about theme retirement and make recommendation which theme to switch to. This is a very useful for network administrator still running some of the older themes for some WordPress network installation. It is a passive agressive way to tell user to switch theme.
-Version: 0.1
+Description: DO NOT USE ON PRODUCTION WEBSITE! Allow network administrators to look at theme usage and make announcements about theme retirement and make recommendation which theme to switch to. This is a very useful for network administrator still running some of the older themes for some WordPress network installation. It is a passive agressive way to tell user to switch theme.
+Version: 0.1.1
 Author: Michael Ha
 Author URI: http://khmha.com/
 Network: true
